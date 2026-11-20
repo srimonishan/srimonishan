@@ -23,7 +23,6 @@
 class SriMonishan(Engineer, Founder):
     def __init__(self):
         self.name      = "Sri Monishan Robert Kumar"
-        self.base      = "Colombo, Sri Lanka 🇱🇰"
         self.website   = "https://srimonishan.com"
         self.studying  = "Artificial Intelligence (Undergraduate)"
         self.titles    = ["Oracle ACE Associate",
