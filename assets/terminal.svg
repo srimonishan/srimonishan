@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="1200" height="400" role="img" aria-label="About Sri Monishan terminal">
+<title>~/srimonishan</title><defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#03050d"/><stop offset=".55" stop-color="#070b1d"/><stop offset="1" stop-color="#0b0620"/>
+  </linearGradient>
+  <linearGradient id="brand" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#00f0ff"/><stop offset=".5" stop-color="#7c5cff"/><stop offset="1" stop-color="#ff3cac"/>
+    <animate attributeName="x1" values="0;-1;0" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="x2" values="1;2;1" dur="8s" repeatCount="indefinite"/>
+  </linearGradient>
+  <radialGradient id="node" cx=".5" cy=".5" r=".5">
+    <stop offset="0" stop-color="#ffffff"/><stop offset=".35" stop-color="#7df9ff"/><stop offset="1" stop-color="#7c5cff" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="glowP" cx=".5" cy=".5" r=".5">
+    <stop offset="0" stop-color="#7c5cff" stop-opacity=".55"/><stop offset="1" stop-color="#7c5cff" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="glowC" cx=".5" cy=".5" r=".5">
+    <stop offset="0" stop-color="#00f0ff" stop-opacity=".45"/><stop offset="1" stop-color="#00f0ff" stop-opacity="0"/>
+  </radialGradient>
+  <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="2.2"/></filter>
+  <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+    <path d="M40 0H0V40" fill="none" stroke="#1b2350" stroke-width=".6" opacity=".55"/>
+  </pattern><clipPath id="c"><rect width="1200" height="400" rx="18"/></clipPath></defs>
+<g clip-path="url(#c)"><rect width="1200" height="400" fill="#04060f"/><rect width="1200" height="400" fill="url(#grid)" opacity=".5"/>
+<rect width="1200" height="48" fill="#0a0f24"/>
+<circle cx="30" cy="24" r="7" fill="#ff5f57"/><circle cx="54" cy="24" r="7" fill="#febc2e"/><circle cx="78" cy="24" r="7" fill="#28c840"/>
+<text x="600.0" y="29" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,monospace" font-size="13" fill="#8f9bd0">srimonishan@neural-core: ~</text>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.000;0.010;.96;1" dur="16s" repeatCount="indefinite"/><text x="60" y="110" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,monospace" font-size="14.5" fill="#6f7cb8">$ <tspan fill="#00f0ff">whoami</tspan></text></g><g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.077;0.087;.96;1" dur="16s" repeatCount="indefinite"/><text x="60" y="135" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,monospace" font-size="14.5" fill="#6f7cb8"><tspan fill="#e8ecff">Sri Monishan Robert Kumar — AI undergraduate · founder · builder</tspan></text></g><g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.154;0.164;.96;1" dur="16s" repeatCount="indefinite"/><text x="60" y="160" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,monospace" font-size="14.5" fill="#6f7cb8">$ <tspan fill="#00f0ff">cat mission.txt</tspan></text></g><g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.231;0.241;.96;1" dur="16s" repeatCount="indefinite"/><text x="60" y="185" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,monospace" font-size="14.5" fill="#6f7cb8"><tspan fill="#e8ecff">Build intelligent products. Bring people together through technology.</tspan></text></g><g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.308;0.318;.96;1" dur="16s" repeatCount="indefinite"/><text x="60" y="210" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,monospace" font-size="14.5" fill="#6f7cb8">$ <tspan fill="#00f0ff">ls ./roles</tspan></text></g><g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.385;0.395;.96;1" dur="16s" repeatCount="indefinite"/><text x="60" y="235" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,monospace" font-size="14.5" fill="#6f7cb8"><tspan fill="#c9b8ff">oracle-ace-associate/  aws-student-builder-group-leader/  notion-campus-leader/</tspan></text></g><g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.462;0.472;.96;1" dur="16s" repeatCount="indefinite"/><text x="60" y="260" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,monospace" font-size="14.5" fill="#6f7cb8"><tspan fill="#c9b8ff">co-founder@LAS-CREATIONS/  sloug-speaker/  aws-open-source-contributor/</tspan></text></g><g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.538;0.548;.96;1" dur="16s" repeatCount="indefinite"/><text x="60" y="285" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,monospace" font-size="14.5" fill="#6f7cb8">$ <tspan fill="#00f0ff">git log --author=srimonishan --oneline awslabs/mcp</tspan></text></g><g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.615;0.625;.96;1" dur="16s" repeatCount="indefinite"/><text x="60" y="310" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,monospace" font-size="14.5" fill="#6f7cb8"><tspan fill="#22ff9a">#5103  fix(document-loader): slide cleanup  [MERGED ✓]</tspan></text></g><g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.692;0.702;.96;1" dur="16s" repeatCount="indefinite"/><text x="60" y="335" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,monospace" font-size="14.5" fill="#6f7cb8">$ <tspan fill="#00f0ff">echo $NEXT</tspan></text></g><g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.769;0.779;.96;1" dur="16s" repeatCount="indefinite"/><text x="60" y="360" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,monospace" font-size="14.5" fill="#6f7cb8"><tspan fill="#ff9ad5">agentic AI · RAG · GraphRAG · LLM systems → shipping at scale</tspan></text></g>
+<rect x="1" y="1" width="1198" height="398" rx="17" fill="none" stroke="url(#brand)" stroke-opacity=".6"/></g></svg>
