@@ -27,6 +27,10 @@ class SriMonishan(Engineer, Founder):
         self.studying  = "Artificial Intelligence (Undergraduate)"
         self.titles    = ["Oracle ACE Associate",
                           "AWS Student Builder Group Leader",
+                          "IEEE Research Leader",
+                          "Microsoft Student Ambassador",
+                          "Databricks Student Fellow",
+                          "n8n Ambassador",
                           "Notion Campus Leader"]
         self.focus     = ["Agentic AI", "RAG & GraphRAG", "LLM Systems",
                           "Generative AI", "MCP Tooling", "AI Products"]
@@ -177,11 +181,13 @@ class SriMonishan(Engineer, Founder):
 
 ## 🌐 Community & Leadership
 
-| | Role | What it means |
-|:-:|---|---|
-| 🏅 | **Oracle ACE Associate** | Recognised by Oracle for technical community contribution; speaker at **Sri Lanka Oracle User Group** — *"From Learner to Oracle ACE: The Journey"* |
-| ☁️ | **AWS Student Builder Group Leader** | Leading students to build, ship and learn on AWS |
-| 📓 | **Notion Campus Leader** | Growing a campus community of builders and organisers |
+<table>
+<tr><td width="50%">🏅 <b>Oracle</b><br/><sub>ACE Associate · Speaker, Sri Lanka Oracle User Group</sub></td><td width="50%">☁️ <b>AWS</b><br/><sub>Student Builder Group Leader</sub></td></tr>
+<tr><td width="50%">🔗 <b>n8n</b><br/><sub>Ambassador</sub></td><td width="50%">🧱 <b>Databricks</b><br/><sub>Student Fellow</sub></td></tr>
+<tr><td width="50%">🪟 <b>Microsoft</b><br/><sub>Student Ambassador</sub></td><td width="50%">🤖 <b>Manus AI</b><br/><sub>Learning Partner</sub></td></tr>
+<tr><td width="50%">⚡ <b>IEEE</b><br/><sub>Research Leader · IEEE Day Ambassador</sub></td><td width="50%">🧠 <b>DeepLearning.AI</b><br/><sub>Ex-Ambassador</sub></td></tr>
+<tr><td width="50%">💻 <b>HackerRank</b><br/><sub>Campus Crew</sub></td><td width="50%">📓 <b>Notion</b><br/><sub>Campus Leader</sub></td></tr>
+</table>
 
 <img src="./assets/divider.svg" width="100%"/>
 
