@@ -12,8 +12,6 @@
 
 <a href="https://srimonishan.com"><img src="https://img.shields.io/badge/srimonishan.com-0b1130?style=for-the-badge&logo=googlechrome&logoColor=00f0ff" alt="Website"/></a>
 <a href="https://www.linkedin.com/in/sri-monishan-robert-kumar"><img src="https://img.shields.io/badge/LinkedIn-0b1130?style=for-the-badge&logo=linkedin&logoColor=7c5cff" alt="LinkedIn"/></a>
-<a href="https://github.com/srimonishan"><img src="https://img.shields.io/github/followers/srimonishan?style=for-the-badge&logo=github&logoColor=ff3cac&label=Followers&labelColor=0b1130&color=ff3cac" alt="Followers"/></a>
-<img src="https://komarev.com/ghpvc/?username=srimonishan&style=for-the-badge&color=7c5cff&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
@@ -30,8 +28,7 @@ class SriMonishan(Engineer, Founder):
         self.studying  = "Artificial Intelligence (Undergraduate)"
         self.titles    = ["Oracle ACE Associate",
                           "AWS Student Builder Group Leader",
-                          "Notion Campus Leader",
-                          "Co-founder @ LAS CREATIONS"]
+                          "Notion Campus Leader"]
         self.focus     = ["Agentic AI", "RAG & GraphRAG", "LLM Systems",
                           "Generative AI", "MCP Tooling", "AI Products"]
         self.mission   = "Build intelligent products. Bring people together."
@@ -186,7 +183,6 @@ class SriMonishan(Engineer, Founder):
 | 🏅 | **Oracle ACE Associate** | Recognised by Oracle for technical community contribution; speaker at **Sri Lanka Oracle User Group** — *"From Learner to Oracle ACE: The Journey"* |
 | ☁️ | **AWS Student Builder Group Leader** | Leading students to build, ship and learn on AWS |
 | 📓 | **Notion Campus Leader** | Growing a campus community of builders and organisers |
-| 🎬 | **Co-founder · LAS CREATIONS** | Creative studio — cinematic brand videos, websites, AI video, motion graphics |
 
 <img src="./assets/divider.svg" width="100%"/>
 
